@@ -27,7 +27,7 @@
 | <img src="[https://www.svgrepo.com/show/342317/typescript.svg](https://www.svgrepo.com/show/342317/typescript.svg)" width="20"/> **Type-Safe** | Full IntelliSense support in your config. |
 | <img src="[https://www.svgrepo.com/show/445838/package.svg](https://www.svgrepo.com/show/445838/package.svg)" width="20"/> **Zero Runtime** | Compiles to pure, optimized CSS. |
 # Quick Syntax
-```html
+
 <!-- Style faster with the ds- prefix -->
 <div class="ds-flex ds-bg-dark ds-p-6 ds-rounded-xl">
   <h1 class="ds-text-primary ds-font-bold">
