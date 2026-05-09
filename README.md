@@ -19,14 +19,14 @@
 <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)" alt="css3" width="40" height="40"/>
 <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg)" alt="npm" width="40" height="40"/>
 </p>
-## ✨ Key Features
+##✨ Key Features
 | Feature | Description |
 |---|---|
 | <img src="[https://www.svgrepo.com/show/443543/lightning.svg](https://www.svgrepo.com/show/443543/lightning.svg)" width="20"/> **Atomic** | Single-purpose classes for maximum reuse. |
 | <img src="[https://www.svgrepo.com/show/441416/mobile.svg](https://www.svgrepo.com/show/441416/mobile.svg)" width="20"/> **Mobile-First** | Optimized for responsive development. |
 | <img src="[https://www.svgrepo.com/show/342317/typescript.svg](https://www.svgrepo.com/show/342317/typescript.svg)" width="20"/> **Type-Safe** | Full IntelliSense support in your config. |
 | <img src="[https://www.svgrepo.com/show/445838/package.svg](https://www.svgrepo.com/show/445838/package.svg)" width="20"/> **Zero Runtime** | Compiles to pure, optimized CSS. |
-## 📖 Quick Syntax
+# Quick Syntax
 ```html
 <!-- Style faster with the ds- prefix -->
 <div class="ds-flex ds-bg-dark ds-p-6 ds-rounded-xl">
